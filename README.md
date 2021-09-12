@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @1showahs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @1showahs... singer songwriter music 🎵 producer. Owner founder creator and CEO/director of the showahs and weed music studio productons
+- 👀 I’m interested in... working to see how GitHub can further revolutionize music production.
+- 🌱 I’m currently learning ... program management
+- 💞️ I’m looking to collaborate on ... music Apps
+- 📫 How to reach me ... https://showahs.videoblog/contact/
 
 <!---
 1showahs/1showahs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
